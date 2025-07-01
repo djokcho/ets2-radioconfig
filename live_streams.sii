@@ -282,6 +282,10 @@ live_stream_def : _nameless.80.3df8.bc60 {
  stream_data[277]: "http://listen.folkbg.net:8001/folkbg|Radio Folk BG|Folk||0|1"
  stream_data[278]: "http://149.13.0.81/njoy.mp3|Radio N-JOY Bulgaria|Pop||0|0"
  stream_data[279]: "http://play.global.audio/veselina64|Radio Veselina|Pop-Folk||0|0"
+ stream_data[280]: "https://play.hitfmbg.com/hitfm-high|Radio HIT FM|Pop"
+ stream_data[281]: "http://149.13.0.80/radio1128|Radio 1 Rock|Rock"
+ stream_data[282]: "https://radio.comnet.bg:12301/radio-folk.mp3|Radio Folk|Folk"
+
 }
 
 }
